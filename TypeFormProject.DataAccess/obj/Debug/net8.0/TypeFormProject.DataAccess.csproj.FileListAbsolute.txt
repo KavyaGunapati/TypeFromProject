@@ -1,0 +1,14 @@
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\bin\Debug\net8.0\TypeFormProject.DataAccess.deps.json
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\bin\Debug\net8.0\TypeFormProject.DataAccess.runtimeconfig.json
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\bin\Debug\net8.0\TypeFormProject.DataAccess.dll
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\bin\Debug\net8.0\TypeFormProject.DataAccess.pdb
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\obj\Debug\net8.0\TypeFormProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\obj\Debug\net8.0\TypeFormProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\obj\Debug\net8.0\TypeFormProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\obj\Debug\net8.0\TypeFormProject.DataAccess.AssemblyInfo.cs
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\obj\Debug\net8.0\TypeFormProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\obj\Debug\net8.0\TypeFormProject.DataAccess.dll
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\obj\Debug\net8.0\refint\TypeFormProject.DataAccess.dll
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\obj\Debug\net8.0\TypeFormProject.DataAccess.pdb
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\obj\Debug\net8.0\TypeFormProject.DataAccess.genruntimeconfig.cache
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\obj\Debug\net8.0\ref\TypeFormProject.DataAccess.dll
