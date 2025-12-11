@@ -12,3 +12,9 @@ C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.
 C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\obj\Debug\net8.0\TypeFormProject.DataAccess.pdb
 C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\obj\Debug\net8.0\TypeFormProject.DataAccess.genruntimeconfig.cache
 C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\obj\Debug\net8.0\ref\TypeFormProject.DataAccess.dll
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\bin\Debug\net8.0\TypeFormProject.Interfaces.dll
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\bin\Debug\net8.0\TypeFormProject.Models.dll
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\bin\Debug\net8.0\TypeFormProject.Interfaces.pdb
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\bin\Debug\net8.0\TypeFormProject.Models.pdb
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\obj\Debug\net8.0\TypeFormProject.DataAccess.sourcelink.json
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.DataAccess\obj\Debug\net8.0\TypeForm.B2C125C1.Up2Date

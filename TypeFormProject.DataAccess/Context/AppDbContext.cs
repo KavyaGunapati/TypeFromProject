@@ -4,54 +4,53 @@ using TypeFormProject.DataAccess.Entities;
 
 namespace TypeFormProject.DataAccess.Context
 {
-        public class AppDbContext : IdentityDbContext<AppUser>
+    public class AppDbContext : IdentityDbContext<AppUser>
+    {
+        public DbSet<Organization> Organizations { get; set; } = default!;
+        public DbSet<UserOrgRole> UserOrgRoles { get; set; } = default!;
+        public DbSet<RefreshToken> RefreshTokens { get; set; }
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+
+        protected override void OnModelCreating(ModelBuilder builder)
         {
-            public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+            base.OnModelCreating(builder);
 
-            public DbSet<Organization> Organizations => Set<Organization>();
-            public DbSet<UserOrgRole> UserOrgRoles => Set<UserOrgRole>();
+            // UserOrgRole relationship
+            builder.Entity<UserOrgRole>()
+                .HasOne(uor => uor.User)
+                .WithMany(u => u.OrgRoles)
+                .HasForeignKey(uor => uor.UserId)
+                .OnDelete(DeleteBehavior.Cascade);
 
-            protected override void OnModelCreating(ModelBuilder modelBuilder)
-            {
-                base.OnModelCreating(modelBuilder);
+            builder.Entity<UserOrgRole>()
+                .HasOne(uor => uor.Organization)
+                .WithMany(o => o.UserRoles)
+                .HasForeignKey(uor => uor.OrganizationId)
+                .OnDelete(DeleteBehavior.Cascade);
 
-               
-                modelBuilder.Entity<Organization>(e =>
-                {
-                    e.HasKey(x => x.Id);
-                    e.Property(x => x.Name).IsRequired().HasMaxLength(150);
-                    e.HasIndex(x => x.Name).IsUnique(); 
-                    e.Property(x => x.CreatedAt).HasDefaultValueSql("GETUTCDATE()");
-                });
+            
+            builder.Entity<UserOrgRole>()
+                .HasIndex(uor => new { uor.UserId, uor.OrganizationId, uor.Role })
+                .IsUnique();
 
-               
-                modelBuilder.Entity<AppUser>(e =>
-                {
-                    e.Property(x => x.FullName).IsRequired().HasMaxLength(150);
-                    e.Property(x => x.IsActive).HasDefaultValue(true);
-                    
-                });
+            // Optional: prevent a user having multiple records per org (irrespective of role)
+            builder.Entity<UserOrgRole>()
+                 .HasIndex(uor => new { uor.UserId, uor.OrganizationId })
+               .IsUnique();
 
-                modelBuilder.Entity<UserOrgRole>(e =>
-                {
-                    e.HasKey(x => x.Id);
+            // Optional: Organization name unique
+            builder.Entity<Organization>()
+                .HasIndex(o => o.Name)
+                .IsUnique();
+            builder.Entity<Organization>()
+                .HasQueryFilter(x => !x.IsDeleted);
 
-                    e.HasIndex(x => new { x.OrganizationId, x.UserId }).IsUnique();
+            builder.Entity<UserOrgRole>()
+                .Property(x => x.Role)
+                .HasConversion<int>();
 
-                    
-                    e.Property(x => x.Role).IsRequired();
-
-                    e.HasOne(x => x.Organization)
-                     .WithMany(o => o.UserRoles)
-                     .HasForeignKey(x => x.OrganizationId)
-                     .OnDelete(DeleteBehavior.Cascade);
-
-                    e.HasOne(x => x.User)
-                     .WithMany(u => u.OrgRoles)
-                     .HasForeignKey(x => x.UserId)
-                     .OnDelete(DeleteBehavior.Cascade);
-                });
-            }
         }
     }
+
+}
 

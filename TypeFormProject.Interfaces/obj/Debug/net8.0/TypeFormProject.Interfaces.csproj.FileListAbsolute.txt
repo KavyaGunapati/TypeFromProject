@@ -1,0 +1,16 @@
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Interfaces\bin\Debug\net8.0\TypeFormProject.Interfaces.deps.json
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Interfaces\bin\Debug\net8.0\TypeFormProject.Interfaces.dll
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Interfaces\bin\Debug\net8.0\TypeFormProject.Interfaces.pdb
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Interfaces\bin\Debug\net8.0\TypeFormProject.Models.dll
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Interfaces\bin\Debug\net8.0\TypeFormProject.Models.pdb
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Interfaces\obj\Debug\net8.0\TypeFormProject.Interfaces.csproj.AssemblyReference.cache
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Interfaces\obj\Debug\net8.0\TypeFormProject.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Interfaces\obj\Debug\net8.0\TypeFormProject.Interfaces.AssemblyInfoInputs.cache
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Interfaces\obj\Debug\net8.0\TypeFormProject.Interfaces.AssemblyInfo.cs
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Interfaces\obj\Debug\net8.0\TypeFormProject.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Interfaces\obj\Debug\net8.0\TypeFormProject.Interfaces.sourcelink.json
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Interfaces\obj\Debug\net8.0\TypeForm.07AF192F.Up2Date
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Interfaces\obj\Debug\net8.0\TypeFormProject.Interfaces.dll
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Interfaces\obj\Debug\net8.0\refint\TypeFormProject.Interfaces.dll
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Interfaces\obj\Debug\net8.0\TypeFormProject.Interfaces.pdb
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Interfaces\obj\Debug\net8.0\ref\TypeFormProject.Interfaces.dll

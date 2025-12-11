@@ -9,5 +9,6 @@ namespace TypeFormProject.Interfaces.IRepository
         Task UpdateAsync(T entity);
         Task<List<T>> FindAsync(Expression<Func<T, bool>> predicate);
         Task DeleteAsync(T entity);
+        Task SaveChangesAsync();
     }
 }

@@ -1,26 +1,33 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿
+using System.ComponentModel.DataAnnotations;
 
 namespace TypeFormProject.Models.DTOs
 {
+    public class Organization
+    {
+        [Key]
+        public int Id { get; set; }
 
-    public record OrganizationDto(int Id, string Name, DateTime CreatedAt);
+        public string Name { get; set; } = default!;
+        public bool IsDeleted { get; set; }
+        public DateTime CreatedAt { get; set; }
+    }
 
-    public record CreateOrganizationRequest(
-        [Required, MaxLength(150)] string Name
-    );
+    public class CreateOrganization
+    {
+        [Required]
+        public string Name { get; set; } = null!;
+    }
 
-    public record UpdateOrganizationNameRequest(
-        [Required] int OrganizationId,
-        [Required, MaxLength(150)] string NewName
-    );
-
-    public record OrganizationMemberDto(
-        int UserId,
-        string Email,
-        string DisplayName,
-        string Role 
-    );
+    public class UpdateOrganization
+    {
+        [Required]
+        public int Id { get; set; }
+        public string Name { get; set; } = default!;
+        public bool? IsDeleted { get; set; } 
+    }
 }
+
 
 
 

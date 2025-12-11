@@ -18,6 +18,7 @@ namespace TypeFormProject.DataAccess.Entities
         public OrgRole Role { get; set; }
 
         public Organization Organization { get; set; } = default!;
+
         public AppUser User { get; set; } = default!;
     }
 }

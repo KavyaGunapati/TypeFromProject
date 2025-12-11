@@ -1,0 +1,66 @@
+[
+  {
+    "ContainingType": "TypeFormProject.WebAPI.Controllers.AppUserController",
+    "Method": "Login",
+    "RelativePath": "api/AppUser/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "TypeFormProject.Models.DTOs.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TypeFormProject.WebAPI.Controllers.AppUserController",
+    "Method": "Logout",
+    "RelativePath": "api/AppUser/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "TypeFormProject.Models.DTOs.RefreshTokenRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TypeFormProject.WebAPI.Controllers.AppUserController",
+    "Method": "Refresh",
+    "RelativePath": "api/AppUser/refresh",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "TypeFormProject.Models.DTOs.RefreshTokenRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TypeFormProject.WebAPI.Controllers.AppUserController",
+    "Method": "SignUp",
+    "RelativePath": "api/AppUser/signup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "register",
+        "Type": "TypeFormProject.Models.DTOs.Register",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

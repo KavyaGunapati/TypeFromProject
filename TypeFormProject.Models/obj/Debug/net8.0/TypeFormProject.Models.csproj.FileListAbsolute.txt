@@ -1,0 +1,13 @@
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Models\bin\Debug\net8.0\TypeFormProject.Models.deps.json
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Models\bin\Debug\net8.0\TypeFormProject.Models.dll
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Models\bin\Debug\net8.0\TypeFormProject.Models.pdb
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Models\obj\Debug\net8.0\TypeFormProject.Models.csproj.AssemblyReference.cache
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Models\obj\Debug\net8.0\TypeFormProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Models\obj\Debug\net8.0\TypeFormProject.Models.AssemblyInfoInputs.cache
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Models\obj\Debug\net8.0\TypeFormProject.Models.AssemblyInfo.cs
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Models\obj\Debug\net8.0\TypeFormProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Models\obj\Debug\net8.0\TypeFormProject.Models.sourcelink.json
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Models\obj\Debug\net8.0\TypeFormProject.Models.dll
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Models\obj\Debug\net8.0\refint\TypeFormProject.Models.dll
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Models\obj\Debug\net8.0\TypeFormProject.Models.pdb
+C:\Users\GunapatiKavya\OneDrive\TypeFormProject\TypeFormProject\TypeFormProject.Models\obj\Debug\net8.0\ref\TypeFormProject.Models.dll

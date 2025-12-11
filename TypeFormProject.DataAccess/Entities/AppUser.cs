@@ -5,6 +5,7 @@ namespace TypeFormProject.DataAccess.Entities
 {
     public class AppUser : IdentityUser
     {
+
         [Required, MaxLength(150)]
         public string FullName { get; set; } = default!;
 
