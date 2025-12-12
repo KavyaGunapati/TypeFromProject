@@ -3,56 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{196D2B0B-20C1-43EE-8FCB-4970372F8A5C}|TypeFormProject.Services\\TypeFormProject.Services.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.services\\appuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{196D2B0B-20C1-43EE-8FCB-4970372F8A5C}|TypeFormProject.Services\\TypeFormProject.Services.csproj|solutionrelative:typeformproject.services\\appuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|solutionrelative:typeformproject.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|solutionrelative:typeformproject.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.webapi\\controllers\\appusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|solutionrelative:typeformproject.webapi\\controllers\\appusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05F822BE-9249-481A-9240-DA79C2198F32}|TypeFormProject.Interfaces\\TypeFormProject.Interfaces.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.interfaces\\iservice\\iappuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05F822BE-9249-481A-9240-DA79C2198F32}|TypeFormProject.Interfaces\\TypeFormProject.Interfaces.csproj|solutionrelative:typeformproject.interfaces\\iservice\\iappuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05F822BE-9249-481A-9240-DA79C2198F32}|TypeFormProject.Interfaces\\TypeFormProject.Interfaces.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.interfaces\\irepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05F822BE-9249-481A-9240-DA79C2198F32}|TypeFormProject.Interfaces\\TypeFormProject.Interfaces.csproj|solutionrelative:typeformproject.interfaces\\irepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.webapi\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|solutionrelative:typeformproject.webapi\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|solutionrelative:typeformproject.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3D8EC1F-A5BD-47E4-858C-3748A42705CB}|TypeFormProject.Managers\\TypeFormProject.Managers.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.managers\\appusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3D8EC1F-A5BD-47E4-858C-3748A42705CB}|TypeFormProject.Managers\\TypeFormProject.Managers.csproj|solutionrelative:typeformproject.managers\\appusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{196D2B0B-20C1-43EE-8FCB-4970372F8A5C}|TypeFormProject.Services\\TypeFormProject.Services.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.services\\appuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196D2B0B-20C1-43EE-8FCB-4970372F8A5C}|TypeFormProject.Services\\TypeFormProject.Services.csproj|solutionrelative:typeformproject.services\\appuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F822BE-9249-481A-9240-DA79C2198F32}|TypeFormProject.Interfaces\\TypeFormProject.Interfaces.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.interfaces\\irepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F822BE-9249-481A-9240-DA79C2198F32}|TypeFormProject.Interfaces\\TypeFormProject.Interfaces.csproj|solutionrelative:typeformproject.interfaces\\irepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.dataaccess\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|solutionrelative:typeformproject.dataaccess\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{05F822BE-9249-481A-9240-DA79C2198F32}|TypeFormProject.Interfaces\\TypeFormProject.Interfaces.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.interfaces\\imanager\\iappusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05F822BE-9249-481A-9240-DA79C2198F32}|TypeFormProject.Interfaces\\TypeFormProject.Interfaces.csproj|solutionrelative:typeformproject.interfaces\\imanager\\iappusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.dataaccess\\enums\\orgrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|solutionrelative:typeformproject.dataaccess\\enums\\orgrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.dataaccess\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|solutionrelative:typeformproject.dataaccess\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.dataaccess\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|solutionrelative:typeformproject.dataaccess\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.webapi\\controllers\\organizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|solutionrelative:typeformproject.webapi\\controllers\\organizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.dataaccess\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|solutionrelative:typeformproject.dataaccess\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.webapi\\controllers\\userorgrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|solutionrelative:typeformproject.webapi\\controllers\\userorgrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D2B0B-20C1-43EE-8FCB-4970372F8A5C}|TypeFormProject.Services\\TypeFormProject.Services.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.services\\userorgroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196D2B0B-20C1-43EE-8FCB-4970372F8A5C}|TypeFormProject.Services\\TypeFormProject.Services.csproj|solutionrelative:typeformproject.services\\userorgroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.models\\dtos\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|solutionrelative:typeformproject.models\\dtos\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D8EC1F-A5BD-47E4-858C-3748A42705CB}|TypeFormProject.Managers\\TypeFormProject.Managers.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.managers\\userorgrolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D8EC1F-A5BD-47E4-858C-3748A42705CB}|TypeFormProject.Managers\\TypeFormProject.Managers.csproj|solutionrelative:typeformproject.managers\\userorgrolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F822BE-9249-481A-9240-DA79C2198F32}|TypeFormProject.Interfaces\\TypeFormProject.Interfaces.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.interfaces\\iservice\\iuserorgroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F822BE-9249-481A-9240-DA79C2198F32}|TypeFormProject.Interfaces\\TypeFormProject.Interfaces.csproj|solutionrelative:typeformproject.interfaces\\iservice\\iuserorgroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F822BE-9249-481A-9240-DA79C2198F32}|TypeFormProject.Interfaces\\TypeFormProject.Interfaces.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.interfaces\\imanager\\iuserorgrolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F822BE-9249-481A-9240-DA79C2198F32}|TypeFormProject.Interfaces\\TypeFormProject.Interfaces.csproj|solutionrelative:typeformproject.interfaces\\imanager\\iuserorgrolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D2B0B-20C1-43EE-8FCB-4970372F8A5C}|TypeFormProject.Services\\TypeFormProject.Services.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.services\\organizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196D2B0B-20C1-43EE-8FCB-4970372F8A5C}|TypeFormProject.Services\\TypeFormProject.Services.csproj|solutionrelative:typeformproject.services\\organizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F822BE-9249-481A-9240-DA79C2198F32}|TypeFormProject.Interfaces\\TypeFormProject.Interfaces.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.interfaces\\iservice\\iorganizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F822BE-9249-481A-9240-DA79C2198F32}|TypeFormProject.Interfaces\\TypeFormProject.Interfaces.csproj|solutionrelative:typeformproject.interfaces\\iservice\\iorganizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D8EC1F-A5BD-47E4-858C-3748A42705CB}|TypeFormProject.Managers\\TypeFormProject.Managers.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.managers\\organizationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D8EC1F-A5BD-47E4-858C-3748A42705CB}|TypeFormProject.Managers\\TypeFormProject.Managers.csproj|solutionrelative:typeformproject.managers\\organizationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F822BE-9249-481A-9240-DA79C2198F32}|TypeFormProject.Interfaces\\TypeFormProject.Interfaces.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.interfaces\\imanager\\iorganizationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F822BE-9249-481A-9240-DA79C2198F32}|TypeFormProject.Interfaces\\TypeFormProject.Interfaces.csproj|solutionrelative:typeformproject.interfaces\\imanager\\iorganizationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.webapi\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|solutionrelative:typeformproject.webapi\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.models\\dtos\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|solutionrelative:typeformproject.models\\dtos\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.models\\constants\\errorconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|solutionrelative:typeformproject.models\\constants\\errorconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.models\\dtos\\userorgrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|solutionrelative:typeformproject.models\\dtos\\userorgrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.models\\dtos\\usertokendata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,22 +107,6 @@
       "RelativeMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|solutionrelative:typeformproject.models\\dtos\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|solutionrelative:typeformproject.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.models\\jwttokenservice\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|solutionrelative:typeformproject.models\\jwttokenservice\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.models\\dtos\\userorgrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|solutionrelative:typeformproject.models\\dtos\\userorgrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.dataaccess\\enums\\orgrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|solutionrelative:typeformproject.dataaccess\\enums\\orgrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.dataaccess\\entities\\userorgrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|solutionrelative:typeformproject.dataaccess\\entities\\userorgrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -87,12 +115,28 @@
       "RelativeMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|solutionrelative:typeformproject.dataaccess\\entities\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.models\\dtos\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|solutionrelative:typeformproject.models\\dtos\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.dataaccess\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|solutionrelative:typeformproject.dataaccess\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.dataaccess\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|solutionrelative:typeformproject.dataaccess\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.webapi\\controllers\\appusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E0E40B-A08B-46F0-86E1-2BF5CA9A1534}|TypeFormProject.WebAPI\\TypeFormProject.WebAPI.csproj|solutionrelative:typeformproject.webapi\\controllers\\appusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F822BE-9249-481A-9240-DA79C2198F32}|TypeFormProject.Interfaces\\TypeFormProject.Interfaces.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.interfaces\\iservice\\iappuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F822BE-9249-481A-9240-DA79C2198F32}|TypeFormProject.Interfaces\\TypeFormProject.Interfaces.csproj|solutionrelative:typeformproject.interfaces\\iservice\\iappuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.dataaccess\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E751BB49-FAC3-4430-AD5D-14FDC4C2AAA1}|TypeFormProject.DataAccess\\TypeFormProject.DataAccess.csproj|solutionrelative:typeformproject.dataaccess\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.models\\constants\\errorconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|solutionrelative:typeformproject.models\\constants\\errorconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|c:\\users\\gunapatikavya\\onedrive\\typeformproject\\typeformproject\\typeformproject.models\\jwttokenservice\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14C016-3C8A-4525-A3E7-5B847394510D}|TypeFormProject.Models\\TypeFormProject.Models.csproj|solutionrelative:typeformproject.models\\jwttokenservice\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -113,33 +157,81 @@
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppUserController.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\Controllers\\AppUserController.cs",
-              "RelativeDocumentMoniker": "TypeFormProject.WebAPI\\Controllers\\AppUserController.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\Controllers\\AppUserController.cs",
-              "RelativeToolTip": "TypeFormProject.WebAPI\\Controllers\\AppUserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T06:20:12.094Z",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TypeFormProject.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TypeFormProject.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-12T09:54:18.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.DataAccess\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "TypeFormProject.DataAccess\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:15:36.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Interfaces\\IRepository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.Interfaces\\IRepository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Interfaces\\IRepository\\IGenericRepository.cs",
+              "RelativeToolTip": "TypeFormProject.Interfaces\\IRepository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:14:53.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AppUserService.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Services\\AppUserService.cs",
               "RelativeDocumentMoniker": "TypeFormProject.Services\\AppUserService.cs",
               "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Services\\AppUserService.cs",
               "RelativeToolTip": "TypeFormProject.Services\\AppUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-11T05:51:01.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Managers\\AppUserManager.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.Managers\\AppUserManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Managers\\AppUserManager.cs",
+              "RelativeToolTip": "TypeFormProject.Managers\\AppUserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T05:16:23.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TypeFormProject.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\appsettings.json",
+              "RelativeToolTip": "TypeFormProject.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T04:53:49.793Z",
               "EditorCaption": ""
             },
             {
@@ -150,100 +242,9 @@
               "RelativeDocumentMoniker": "TypeFormProject.WebAPI\\Program.cs",
               "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\Program.cs",
               "RelativeToolTip": "TypeFormProject.WebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAswIEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T11:50:59.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\Profiles\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "TypeFormProject.WebAPI\\Profiles\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\Profiles\\MappingProfile.cs",
-              "RelativeToolTip": "TypeFormProject.WebAPI\\Profiles\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T05:18:58.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Interfaces\\IRepository\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "TypeFormProject.Interfaces\\IRepository\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Interfaces\\IRepository\\IGenericRepository.cs",
-              "RelativeToolTip": "TypeFormProject.Interfaces\\IRepository\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T12:14:53.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAppUserService.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Interfaces\\IService\\IAppUserService.cs",
-              "RelativeDocumentMoniker": "TypeFormProject.Interfaces\\IService\\IAppUserService.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Interfaces\\IService\\IAppUserService.cs",
-              "RelativeToolTip": "TypeFormProject.Interfaces\\IService\\IAppUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T05:44:58.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppUserManager.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Managers\\AppUserManager.cs",
-              "RelativeDocumentMoniker": "TypeFormProject.Managers\\AppUserManager.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Managers\\AppUserManager.cs",
-              "RelativeToolTip": "TypeFormProject.Managers\\AppUserManager.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAADwv2oAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T05:16:23.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "TypeFormProject.DataAccess\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "TypeFormProject.DataAccess\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T11:44:00.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "TypeFormProject.DataAccess\\Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Entities\\AppUser.cs",
-              "RelativeToolTip": "TypeFormProject.DataAccess\\Entities\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T11:35:15.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RefreshToken.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Entities\\RefreshToken.cs",
-              "RelativeDocumentMoniker": "TypeFormProject.DataAccess\\Entities\\RefreshToken.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Entities\\RefreshToken.cs",
-              "RelativeToolTip": "TypeFormProject.DataAccess\\Entities\\RefreshToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T04:09:05.367Z",
               "EditorCaption": ""
             },
             {
@@ -261,98 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\AppUser.cs",
-              "RelativeDocumentMoniker": "TypeFormProject.Models\\DTOs\\AppUser.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\AppUser.cs",
-              "RelativeToolTip": "TypeFormProject.Models\\DTOs\\AppUser.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA0wCEAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T12:20:28.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserTokenData.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\UserTokenData.cs",
-              "RelativeDocumentMoniker": "TypeFormProject.Models\\DTOs\\UserTokenData.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\UserTokenData.cs",
-              "RelativeToolTip": "TypeFormProject.Models\\DTOs\\UserTokenData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T04:51:14.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Result.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\Result.cs",
-              "RelativeDocumentMoniker": "TypeFormProject.Models\\DTOs\\Result.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\Result.cs",
-              "RelativeToolTip": "TypeFormProject.Models\\DTOs\\Result.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T12:26:12.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ErrorConstants.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\Constants\\ErrorConstants.cs",
-              "RelativeDocumentMoniker": "TypeFormProject.Models\\Constants\\ErrorConstants.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\Constants\\ErrorConstants.cs",
-              "RelativeToolTip": "TypeFormProject.Models\\Constants\\ErrorConstants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T12:27:04.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "TypeFormProject.WebAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\appsettings.json",
-              "RelativeToolTip": "TypeFormProject.WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-11T04:53:49.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\JwtTokenService\\TokenService.cs",
-              "RelativeDocumentMoniker": "TypeFormProject.Models\\JwtTokenService\\TokenService.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\JwtTokenService\\TokenService.cs",
-              "RelativeToolTip": "TypeFormProject.Models\\JwtTokenService\\TokenService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T04:39:49.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UserOrgRole.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\UserOrgRole.cs",
-              "RelativeDocumentMoniker": "TypeFormProject.Models\\DTOs\\UserOrgRole.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\UserOrgRole.cs",
-              "RelativeToolTip": "TypeFormProject.Models\\DTOs\\UserOrgRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T04:16:39.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 8,
               "Title": "OrgRole.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Enums\\OrgRole.cs",
               "RelativeDocumentMoniker": "TypeFormProject.DataAccess\\Enums\\OrgRole.cs",
@@ -365,55 +275,327 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Organization.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Entities\\Organization.cs",
-              "RelativeDocumentMoniker": "TypeFormProject.DataAccess\\Entities\\Organization.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Entities\\Organization.cs",
-              "RelativeToolTip": "TypeFormProject.DataAccess\\Entities\\Organization.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.DataAccess\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "TypeFormProject.DataAccess\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T11:33:36.127Z",
+              "WhenOpened": "2025-12-10T11:44:00.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrganizationController.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\Controllers\\OrganizationController.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.WebAPI\\Controllers\\OrganizationController.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\Controllers\\OrganizationController.cs",
+              "RelativeToolTip": "TypeFormProject.WebAPI\\Controllers\\OrganizationController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:35:37.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserOrgRoleController.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\Controllers\\UserOrgRoleController.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.WebAPI\\Controllers\\UserOrgRoleController.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\Controllers\\UserOrgRoleController.cs",
+              "RelativeToolTip": "TypeFormProject.WebAPI\\Controllers\\UserOrgRoleController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:49:33.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserOrgRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Services\\UserOrgRoleService.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.Services\\UserOrgRoleService.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Services\\UserOrgRoleService.cs",
+              "RelativeToolTip": "TypeFormProject.Services\\UserOrgRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:43:20.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\Organization.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.Models\\DTOs\\Organization.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\Organization.cs",
+              "RelativeToolTip": "TypeFormProject.Models\\DTOs\\Organization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:30:12.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserOrgRoleManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Managers\\UserOrgRoleManager.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.Managers\\UserOrgRoleManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Managers\\UserOrgRoleManager.cs",
+              "RelativeToolTip": "TypeFormProject.Managers\\UserOrgRoleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:53:11.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserOrgRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Interfaces\\IService\\IUserOrgRoleService.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.Interfaces\\IService\\IUserOrgRoleService.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Interfaces\\IService\\IUserOrgRoleService.cs",
+              "RelativeToolTip": "TypeFormProject.Interfaces\\IService\\IUserOrgRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:42:04.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserOrgRoleManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Interfaces\\IManager\\IUserOrgRoleManager.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.Interfaces\\IManager\\IUserOrgRoleManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Interfaces\\IManager\\IUserOrgRoleManager.cs",
+              "RelativeToolTip": "TypeFormProject.Interfaces\\IManager\\IUserOrgRoleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:25:23.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrganizationService.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Services\\OrganizationService.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.Services\\OrganizationService.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Services\\OrganizationService.cs",
+              "RelativeToolTip": "TypeFormProject.Services\\OrganizationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:32:06.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IOrganizationService.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Interfaces\\IService\\IOrganizationService.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.Interfaces\\IService\\IOrganizationService.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Interfaces\\IService\\IOrganizationService.cs",
+              "RelativeToolTip": "TypeFormProject.Interfaces\\IService\\IOrganizationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:27:19.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "OrganizationManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Managers\\OrganizationManager.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.Managers\\OrganizationManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Managers\\OrganizationManager.cs",
+              "RelativeToolTip": "TypeFormProject.Managers\\OrganizationManager.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAcwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:27:44.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IOrganizationManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Interfaces\\IManager\\IOrganizationManager.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.Interfaces\\IManager\\IOrganizationManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Interfaces\\IManager\\IOrganizationManager.cs",
+              "RelativeToolTip": "TypeFormProject.Interfaces\\IManager\\IOrganizationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T04:21:08.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\AppUser.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.Models\\DTOs\\AppUser.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\AppUser.cs",
+              "RelativeToolTip": "TypeFormProject.Models\\DTOs\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:20:28.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.WebAPI\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "TypeFormProject.WebAPI\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T05:18:58.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserOrgRole.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\UserOrgRole.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.Models\\DTOs\\UserOrgRole.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\UserOrgRole.cs",
+              "RelativeToolTip": "TypeFormProject.Models\\DTOs\\UserOrgRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T04:16:39.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserTokenData.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\UserTokenData.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.Models\\DTOs\\UserTokenData.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\UserTokenData.cs",
+              "RelativeToolTip": "TypeFormProject.Models\\DTOs\\UserTokenData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T04:51:14.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\Result.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.Models\\DTOs\\Result.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\Result.cs",
+              "RelativeToolTip": "TypeFormProject.Models\\DTOs\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:26:12.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "UserOrgRole.cs",
               "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Entities\\UserOrgRole.cs",
               "RelativeDocumentMoniker": "TypeFormProject.DataAccess\\Entities\\UserOrgRole.cs",
               "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Entities\\UserOrgRole.cs",
               "RelativeToolTip": "TypeFormProject.DataAccess\\Entities\\UserOrgRole.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBEAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T11:35:51.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Repositories\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "TypeFormProject.DataAccess\\Repositories\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Repositories\\BaseRepository.cs",
-              "RelativeToolTip": "TypeFormProject.DataAccess\\Repositories\\BaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 27,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Entities\\Organization.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.DataAccess\\Entities\\Organization.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Entities\\Organization.cs",
+              "RelativeToolTip": "TypeFormProject.DataAccess\\Entities\\Organization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T12:15:36.704Z",
+              "WhenOpened": "2025-12-10T11:33:36.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Organization.cs",
-              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\Organization.cs",
-              "RelativeDocumentMoniker": "TypeFormProject.Models\\DTOs\\Organization.cs",
-              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\DTOs\\Organization.cs",
-              "RelativeToolTip": "TypeFormProject.Models\\DTOs\\Organization.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 28,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.DataAccess\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Entities\\AppUser.cs",
+              "RelativeToolTip": "TypeFormProject.DataAccess\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T12:30:12.546Z",
+              "WhenOpened": "2025-12-10T11:35:15.692Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAppUserService.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Interfaces\\IService\\IAppUserService.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.Interfaces\\IService\\IAppUserService.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Interfaces\\IService\\IAppUserService.cs",
+              "RelativeToolTip": "TypeFormProject.Interfaces\\IService\\IAppUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T05:44:58.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppUserController.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\Controllers\\AppUserController.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.WebAPI\\Controllers\\AppUserController.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.WebAPI\\Controllers\\AppUserController.cs",
+              "RelativeToolTip": "TypeFormProject.WebAPI\\Controllers\\AppUserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T06:20:12.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.DataAccess\\Entities\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.DataAccess\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "TypeFormProject.DataAccess\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T04:09:05.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ErrorConstants.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\Constants\\ErrorConstants.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.Models\\Constants\\ErrorConstants.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\Constants\\ErrorConstants.cs",
+              "RelativeToolTip": "TypeFormProject.Models\\Constants\\ErrorConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:27:04.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\JwtTokenService\\TokenService.cs",
+              "RelativeDocumentMoniker": "TypeFormProject.Models\\JwtTokenService\\TokenService.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\OneDrive\\TypeFormProject\\TypeFormProject\\TypeFormProject.Models\\JwtTokenService\\TokenService.cs",
+              "RelativeToolTip": "TypeFormProject.Models\\JwtTokenService\\TokenService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T04:39:49.188Z"
             }
           ]
         }

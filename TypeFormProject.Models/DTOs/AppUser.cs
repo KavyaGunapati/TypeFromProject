@@ -26,12 +26,13 @@ namespace TypeFormProject.Models.DTOs
     }
     public class AuthResponse
     {
-           public string AccessToken { get; set; } = default!;
-            public string RefreshToken { get; set; } = default!;
-            public DateTime AccessTokenExpiresAt { get; set; }
+        public string AccessToken { get; set; } = default!;
+        public string RefreshToken { get; set; } = default!;
+        public DateTime AccessTokenExpiresAt { get; set; }
         public string Email { get; set; } = null!;
         public string FullName { get; set; } = null!;
         public string UserId { get; set; } = null!;
+        public List<string> Role { get; set; } = null!;
         public DateTime RefreshTokenExpiresAt { get; set; }
     }
 

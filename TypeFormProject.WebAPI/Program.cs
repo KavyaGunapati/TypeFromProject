@@ -93,6 +93,10 @@ builder.Services.AddScoped<TokenService>();
 builder.Services.AddScoped(typeof(IGenericRepository<>),typeof(BaseRepository<>));
 builder.Services.AddScoped<IAppUserManager, AppUserManager>();
 builder.Services.AddScoped<IAppUserService, AppUserService>();
+builder.Services.AddScoped<IOrganizationManager, OrganizationManager>();
+builder.Services.AddScoped<IOrganizationService, OrganizationService>();
+builder.Services.AddScoped<IUserOrgRoleManager, UserOrgRoleManager>();
+builder.Services.AddScoped<IUserOrgRoleService, UserOrgRoleService>();
 
 builder.Services.AddCors(options =>
 {
@@ -116,9 +120,10 @@ if (app.Environment.IsDevelopment())
 }
 app.UseCors("AllowReactApp");
 app.UseHttpsRedirection();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
 
 app.Run();
+

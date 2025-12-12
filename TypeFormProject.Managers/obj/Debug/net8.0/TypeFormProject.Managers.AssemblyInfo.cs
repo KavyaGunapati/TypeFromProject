@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TypeFormProject.Managers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3231314fd0f212f2b8c478fd26361e8ddb03054")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cf54b23d2a7eb4daeb525d4ec11036604ae7e52")]
 [assembly: System.Reflection.AssemblyProductAttribute("TypeFormProject.Managers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TypeFormProject.Managers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

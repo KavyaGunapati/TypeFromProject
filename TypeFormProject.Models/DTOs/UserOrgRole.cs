@@ -1,6 +1,6 @@
 ﻿namespace TypeFormProject.Models.DTOs
 {
-    public class UserOrgRoleDto
+    public class UserOrgRole
     {
         public int Id { get; set; }
         public int OrganizationId { get; set; }
@@ -8,7 +8,7 @@
         public int Role { get; set; }
     }
 
-    public class AssignUserOrgRoleDto
+    public class AssignUserOrgRole
     {
         public int OrganizationId { get; set; }
         public string UserId { get; set; } = default!;

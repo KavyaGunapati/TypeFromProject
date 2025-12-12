@@ -20,7 +20,7 @@ namespace TypeFormProject.Managers
         private readonly TokenService _tokenService;
         private readonly IMapper _mapper;
         private readonly ILogger<AppUserManager> _logger;
-        private const string DefaultRole = "User";
+        private const string DefaultRole = "Admin";
         private readonly IConfiguration _config;
 
         private readonly IGenericRepository<RefreshToken> _repository;
@@ -102,7 +102,9 @@ namespace TypeFormProject.Managers
                     RefreshTokenExpiresAt = refreshExpiresAt,
                    UserId = user.Id,
                     FullName = user.FullName,
-                    Email = user.Email!
+                    Email = user.Email!,
+                    Role=(await _userManager.GetRolesAsync(user)).ToList(),
+                   
                 };
                 await SaveRefreshTokenAsync(auth.UserId!, auth.RefreshToken, auth.RefreshTokenExpiresAt);
                 _logger.LogInformation("SignUp successful for {Email}", register.Email);
@@ -157,7 +159,9 @@ namespace TypeFormProject.Managers
                     RefreshTokenExpiresAt = refreshExpiresAt,
                     UserId = user.Id,
                     FullName = user.FullName,
-                    Email = user.Email!
+                    Email = user.Email!,
+                    Role = (await _userManager.GetRolesAsync(user)).ToList(),
+
                 };
                
                 await SaveRefreshTokenAsync(auth.UserId!, auth.RefreshToken, auth.RefreshTokenExpiresAt);
@@ -223,7 +227,7 @@ namespace TypeFormProject.Managers
                     AccessTokenExpiresAt = DateTime.UtcNow.AddMinutes(accessMinutes),
                     RefreshToken = newRefresh,
                     RefreshTokenExpiresAt = newRefreshExp,
-
+                    Role=(await _userManager.GetRolesAsync(user)).ToList(),
                     UserId = user.Id,
                     FullName = user.FullName,
                     Email = user.Email!

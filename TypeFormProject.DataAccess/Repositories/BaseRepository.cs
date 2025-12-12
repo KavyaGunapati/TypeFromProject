@@ -54,5 +54,10 @@ namespace TypeFormProject.DataAccess.Repositories
         {
             await _context.SaveChangesAsync();
         }
+
+        public IQueryable<T> Query()
+        {
+            return _context.Set<T>().AsQueryable();
+        }
     }
 }
